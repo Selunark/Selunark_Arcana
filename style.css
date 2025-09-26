@@ -4,7 +4,9 @@ body {
   background: linear-gradient(to bottom, #ecd4f8, #fbe3f1);
   color: #333;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 .navbar {
   position: fixed;
   top: 0;
